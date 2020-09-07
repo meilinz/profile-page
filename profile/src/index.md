@@ -8,7 +8,7 @@ github: https://github.com/meilinz/profile-page
 Data Scientist, Computational Linguist, Cognitive Scientist, Tea Expert
 
 ## Papers
-  **Meilin Zhan**, Roger Levy and Andrew Kehler. 2020. Pronoun Interpretation in Mandarin Chinese follows principles of Bayesian inference.  *PLOS ONE* 15(8):1–42. [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0237012&type=printable) [DOI](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237012)
+  **Meilin Zhan**, Roger Levy and Andrew Kehler. 2020. Pronoun Interpretation in Mandarin Chinese follows principles of Bayesian inference.  *PLOS ONE* 15(8):1–42. [DOI](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237012) [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0237012&type=printable)
   
   **Meilin Zhan** and Roger P. Levy. 2019. Availability-Based Production Predicts Speakers’ Real-time Choices of Mandarin Classifiers.  *Proceedings of the 41st Annual Meeting of the Cognitive Science Society*, pp. 1268–1274. [PDF](https://cogsci.mindmodeling.org/2019/papers/0231/0231.pdf)
 
