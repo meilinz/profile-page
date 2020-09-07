@@ -11,9 +11,6 @@ module.exports = function ({ title, content, frontMatter }) {
         <div class="profile">
         ${content}
         </div>
-        <footer>
-           Like this page? <a href="${frontMatter.github}">Fork me to create your own!</a>
-        </footer>
       </body>
     </html>
   `;
