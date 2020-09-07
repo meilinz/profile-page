@@ -3,6 +3,8 @@ title: Meilin Zhan
 github: https://github.com/meilinz/profile-page
 ---
 
+![](./assets/profile_0.jpg)
+
 ## Meilin Zhan
 
 Data Scientist, Computational Linguist, Cognitive Scientist, Tea Expert
